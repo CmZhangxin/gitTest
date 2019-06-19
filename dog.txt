@@ -3,4 +3,8 @@ cat
 tiger
 pig
 issue
+<<<<<<< HEAD
 issue fix
+=======
+dev function
+>>>>>>> dev0619
